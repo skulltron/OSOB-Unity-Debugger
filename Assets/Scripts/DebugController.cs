@@ -24,7 +24,7 @@ public class DebugController : MonoBehaviour
     private void Awake()
     {
         IAMALONE = new DebugCommand("iamalone", "Removes all heroes from the scene.", "iamalone", () => {
-            //Controller.instance.KillAll();
+            Enemy.DieAll();
             Debug.Log("All Killed");
         });
 
