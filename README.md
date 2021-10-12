@@ -1,4 +1,4 @@
-# OSOB-Unity-Debugger
+# OSOB Unity Debugger
 Tired of debugging via console in unity ?, This is the tool for Unity developers to make debugging easier.
 
 ## About The Tool :
@@ -17,3 +17,7 @@ Basically, this is just a console that contains several commands to modify GameO
 ## Additional Link
 You can also download the assets for this project from this drive :<br/>
 <a href="https://drive.google.com/drive/folders/1mZdM-4YsGd6DqfcMRXgUbG1Zm0itLIUi?usp=sharing">Gdrive</a>
+
+That's all for this Project, we hope this can be a good use for everyone<br/>
+OSOB Team<br/><br/>
+![alt text](https://media0.giphy.com/media/2FNKSCG6Z01Pi/giphy.gif)
